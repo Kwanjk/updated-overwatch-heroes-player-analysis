@@ -1,0 +1,46 @@
+Hero,Mobility,Self_Sustain,Mechanical_Skill,HP,Damage,Support,Tank
+D.Va,8,6,5,725,0,0,1
+Doomfist,10,7,10,525,0,0,1
+Hazard,7,8,6,650,0,0,1
+Junker Queen,6,8,7,525,0,0,1
+Mauga,4,9,5,725,0,0,1
+Orisa,3,9,4,625,0,0,1
+Ramattra,4,7,6,600,0,0,1
+Reinhardt,3,6,4,700,0,0,1
+Roadhog,2,10,5,750,0,0,1
+Sigma,2,7,8,625,0,0,1
+Winston,8,5,6,625,0,0,1
+Wrecking Ball,10,8,10,775,0,0,1
+Zarya,2,6,7,550,0,0,1
+Ashe,5,2,9,250,1,0,0
+Bastion,2,4,4,300,1,0,0
+Cassidy,3,3,9,275,1,0,0
+Echo,9,4,9,250,1,0,0
+Freja,6,3,8,250,1,0,0
+Genji,9,3,10,250,1,0,0
+Hanzo,5,2,9,250,1,0,0
+Junkrat,7,2,5,250,1,0,0
+Mei,2,9,5,300,1,0,0
+Pharah,9,2,7,250,1,0,0
+Reaper,7,8,4,300,1,0,0
+Sojourn,8,2,9,250,1,0,0
+Soldier: 76,6,7,6,250,1,0,0
+Sombra,9,6,7,250,1,0,0
+Symmetra,4,5,6,250,1,0,0
+Torbjörn,3,6,5,300,1,0,0
+Tracer,10,4,9,175,1,0,0
+Vendetta,6,6,8,250,1,0,0
+Venture,8,6,6,250,1,0,0
+Widowmaker,4,1,10,200,1,0,0
+Ana,1,5,9,250,0,1,0
+Baptiste,6,7,8,250,0,1,0
+Brigitte,4,7,4,250,0,1,0
+Illari,5,6,8,250,0,1,0
+Juno,8,3,6,250,0,1,0
+Kiriko,8,7,8,250,0,1,0
+Lifeweaver,6,6,4,275,0,1,0
+Lúcio,9,6,8,250,0,1,0
+Mercy,8,6,3,250,0,1,0
+Moira,7,9,3,250,0,1,0
+Wuyang,5,6,7,250,0,1,0
+Zenyatta,1,4,9,250,0,1,0
