@@ -1,0 +1,46 @@
+Hero,Match_1,Score_1,Match_2,Score_2,Match_3,Score_3,Match_4,Score_4,Match_5,Score_5
+D.Va,Winston,0.9518,Hazard,0.8645,Mauga,0.6819,Reinhardt,0.6666,Ramattra,0.6308
+Doomfist,Wrecking Ball,0.9197,Lúcio,0.6567,Kiriko,0.6306,Echo,0.5715,Genji,0.5363
+Hazard,Junker Queen,0.9083,Mauga,0.87,D.Va,0.8645,Ramattra,0.7705,Roadhog,0.7578
+Junker Queen,Hazard,0.9083,Mauga,0.8419,Roadhog,0.7998,Ramattra,0.7434,Wrecking Ball,0.7322
+Mauga,Roadhog,0.9764,Ramattra,0.9645,Orisa,0.9529,Hazard,0.87,Junker Queen,0.8419
+Orisa,Roadhog,0.9634,Mauga,0.9529,Ramattra,0.9119,Reinhardt,0.8568,Mei,0.7249
+Ramattra,Roadhog,0.9654,Mauga,0.9645,Orisa,0.9119,Reinhardt,0.9015,Sigma,0.8252
+Reinhardt,Ramattra,0.9015,Orisa,0.8568,Mauga,0.8407,Roadhog,0.8201,Zarya,0.7263
+Roadhog,Mauga,0.9764,Ramattra,0.9654,Orisa,0.9634,Reinhardt,0.8201,Junker Queen,0.7998
+Sigma,Zarya,0.9447,Ramattra,0.8252,Roadhog,0.7836,Mauga,0.6976,Orisa,0.614
+Winston,D.Va,0.9518,Hazard,0.72,Wrecking Ball,0.6324,Reinhardt,0.4952,Mauga,0.4513
+Wrecking Ball,Doomfist,0.9197,Junker Queen,0.7322,Hazard,0.7179,Winston,0.6324,D.Va,0.5877
+Zarya,Sigma,0.9447,Ramattra,0.8102,Roadhog,0.7505,Reinhardt,0.7263,Mauga,0.6464
+Ashe,Hanzo,1.0,Widowmaker,0.9933,Freja,0.9642,Cassidy,0.9033,Sojourn,0.8601
+Bastion,Torbjörn,0.8892,Symmetra,0.862,Brigitte,0.6929,Lifeweaver,0.5692,Reinhardt,0.4796
+Cassidy,Widowmaker,0.9448,Zenyatta,0.9262,Hanzo,0.9033,Ashe,0.9033,Ana,0.8486
+Echo,Tracer,0.9847,Genji,0.9792,Sojourn,0.9005,Lúcio,0.8477,Pharah,0.7913
+Freja,Ashe,0.9642,Hanzo,0.9642,Widowmaker,0.9348,Sojourn,0.9313,Genji,0.8045
+Genji,Echo,0.9792,Sojourn,0.9486,Tracer,0.9335,Freja,0.8045,Pharah,0.7782
+Hanzo,Hanzo,1.0,Widowmaker,0.9933,Freja,0.9642,Cassidy,0.9033,Sojourn,0.8601
+Junkrat,Juno,0.9315,Pharah,0.8219,Freja,0.6222,Sojourn,0.5579,Mercy,0.5023
+Mei,Brigitte,0.8237,Torbjörn,0.8161,Orisa,0.7249,Roadhog,0.6586,Soldier: 76,0.6132
+Pharah,Juno,0.953,Sojourn,0.8845,Junkrat,0.8219,Tracer,0.7962,Freja,0.7927
+Reaper,Moira,0.9958,Mercy,0.8524,Lifeweaver,0.845,Soldier: 76,0.8179,Brigitte,0.7538
+Sojourn,Genji,0.9486,Freja,0.9313,Echo,0.9005,Pharah,0.8845,Ashe,0.8601
+Soldier: 76,Moira,0.8542,Reaper,0.8179,Brigitte,0.7293,Lifeweaver,0.6711,Venture,0.6631
+Sombra,Lúcio,0.9475,Venture,0.9018,Kiriko,0.849,Tracer,0.8146,Echo,0.7208
+Symmetra,Bastion,0.862,Torbjörn,0.8272,Wuyang,0.6781,Brigitte,0.6603,Zenyatta,0.584
+Torbjörn,Brigitte,0.8904,Bastion,0.8892,Symmetra,0.8272,Mei,0.8161,Lifeweaver,0.6236
+Tracer,Echo,0.9847,Genji,0.9335,Lúcio,0.9014,Sojourn,0.8519,Sombra,0.8146
+Vendetta,Illari,0.9144,Baptiste,0.913,Kiriko,0.7735,Wuyang,0.7271,Lúcio,0.6658
+Venture,Sombra,0.9018,Mercy,0.7629,Lúcio,0.7256,Soldier: 76,0.6631,Kiriko,0.6478
+Widowmaker,Ashe,0.9933,Hanzo,0.9933,Cassidy,0.9448,Freja,0.9348,Sojourn,0.8037
+Ana,Zenyatta,0.9817,Cassidy,0.8486,Illari,0.7358,Widowmaker,0.6479,Wuyang,0.6176
+Baptiste,Vendetta,0.913,Illari,0.8382,Kiriko,0.832,Wuyang,0.703,Lúcio,0.6018
+Brigitte,Torbjörn,0.8904,Lifeweaver,0.8611,Mei,0.8237,Moira,0.7996,Reaper,0.7538
+Illari,Vendetta,0.9144,Wuyang,0.8564,Baptiste,0.8382,Ana,0.7358,Zenyatta,0.6703
+Juno,Pharah,0.953,Junkrat,0.9315,Sojourn,0.7232,Freja,0.6829,Tracer,0.6558
+Kiriko,Lúcio,0.9234,Sombra,0.849,Baptiste,0.832,Vendetta,0.7735,Tracer,0.709
+Lifeweaver,Mercy,0.9397,Brigitte,0.8611,Moira,0.8522,Reaper,0.845,Soldier: 76,0.6711
+Lúcio,Sombra,0.9475,Kiriko,0.9234,Tracer,0.9014,Echo,0.8477,Genji,0.7318
+Mercy,Lifeweaver,0.9397,Reaper,0.8524,Moira,0.8332,Venture,0.7629,Brigitte,0.652
+Moira,Reaper,0.9958,Soldier: 76,0.8542,Lifeweaver,0.8522,Mercy,0.8332,Brigitte,0.7996
+Wuyang,Illari,0.8564,Vendetta,0.7271,Baptiste,0.703,Symmetra,0.6781,Soldier: 76,0.6281
+Zenyatta,Ana,0.9817,Cassidy,0.9262,Widowmaker,0.7602,Hanzo,0.6822,Ashe,0.6822
