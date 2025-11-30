@@ -38,28 +38,19 @@ The insights help:
 
 ## 📁 **Repository Structure**
 
+Current tree (root-level files):
+
 ```
 .
-├── data/
-│   ├── overwatch_hero_psychology_full.csv
-│   ├── overwatch_full_similarity_top5.csv
-│   ├── overwatch_hero_archetypes.csv
-│   └── (any additional processed outputs)
-│
-├── notebooks/
-│   ├── overwatch_hero_archetype_analysis_final.ipynb
-│   └── (archived drafts)
-│
-├── images/
-│   ├── pca_plot.png
-│   ├── similarity_heatmap.png
-│   ├── cluster_radar_charts.png
-│   ├── parallel_coordinates.png
-│   └── (other exported visuals)
-│
-├── README.md   ← You are here
-└── requirements.txt (optional)
+├── LICENSE
+├── overwatch_full_similarity_top5.csv
+├── overwatch_hero_archetype_analysis_final.ipynb
+├── overwatch_hero_archetypes.csv
+├── overwatch_hero_psychology_full.csv
+└── README.md   ← You are here
 ```
+
+Note: Some sections reference folders like `data/`, `notebooks/`, and `images/`. In this repo, assets and the notebook currently live at the root. If you’d like, we can organize them into folders for cleanliness.
 
 ---
 
@@ -67,7 +58,7 @@ The insights help:
 
 ### 🔹 **1. Cosine Similarity**
 
-Used to construct a 45×45 psychological similarity matrix between all heroes.
+Used to construct an N×N psychological similarity matrix between all heroes (N = number of heroes included).
 
 ### 🔹 **2. PCA (Principal Component Analysis)**
 
@@ -101,8 +92,8 @@ Includes:
 ### **1. Clone the repository**
 
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Kwanjk/updated-overwatch-heroes-player-analysis.git
+cd updated-overwatch-heroes-player-analysis
 ```
 
 ### **2. Install dependencies**
@@ -110,13 +101,14 @@ cd <repo-name>
 You can manually install or use a requirements file.
 
 ```
-pip install pandas numpy matplotlib seaborn scikit-learn
+python -m pip install --upgrade pip
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
 ### **3. Open the analysis notebook**
 
 ```
-jupyter notebook notebooks/overwatch_hero_archetype_analysis_final.ipynb
+jupyter notebook overwatch_hero_archetype_analysis_final.ipynb
 ```
 
 ### **4. Run all cells**
@@ -159,7 +151,7 @@ This project included:
 * Normalizing numeric features
 * Adjusting HP scale for comparability
 * Ensuring consistent column naming
-* Re-checking new heroes (Hazard, Vendetta, Juno, etc.)
+* Re-checking newly added heroes (e.g., Juno) as patches release
 
 Common pitfalls others may run into:
 
@@ -218,23 +210,3 @@ These archetypes help players:
 
 Ultimately:
 **We really are who we lock.**
-
----
-
-## 📬 **Contact**
-
-Feel free to reach out if you want to collaborate, provide feedback, or build on this project!
-
-**Author:** Joshua Kwan
-**Email:** (optional)
-
----
-
-If you'd like, I can also generate:
-
-✔ A polished **requirements.txt**
-✔ A matching **LICENSE file**
-✔ A banner image for the repo
-✔ A short project description for your GitHub sidebar
-
-Just say **“add requirements.txt”** or **“create license”** and I’ll generate it.
